@@ -1,2 +1,2 @@
 # jsleetcode
-leetcode of JavaScript
+JavaScript 数据结构和算法
