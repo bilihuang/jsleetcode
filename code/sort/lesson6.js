@@ -28,12 +28,12 @@ export default (arr) => {
   //         array[i] = 1
   //     }
   // }
-  
+  //
   // for(let i=1; i<maxSize + 1; i++) {
   //     if (!array[i]) {
   //         return i
   //     }
   // }
-  
+  //
   // return array.length ? array.length : 1
 }
