@@ -1,3 +1,4 @@
+// 89. 格雷编码
 export default (n) => {
   let make = (n) => {
     if (n === 1) {

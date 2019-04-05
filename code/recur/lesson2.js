@@ -1,3 +1,4 @@
+// 30. 串联所有单词的子串(未完成)
 export default (str, words) => {
   let res = []
   // 记录数组的长度，做边界条件计算

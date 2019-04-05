@@ -1,3 +1,4 @@
+// 10. 正则表达式匹配(未完成)
 export default (str, mode) => {
   // 对模式变量进行正则筛选
   let modeArr = mode.match(/([a-z.]\*)|([a-z]+(?=([a-z.]\*)|$))/g)

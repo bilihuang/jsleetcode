@@ -1,3 +1,4 @@
+// 605. 种花问题
 export default (arr, n) => {
   let max = 0
   for (let i = 0, len = arr.length - 1; i < len; i++) {
