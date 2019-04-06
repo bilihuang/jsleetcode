@@ -1,3 +1,4 @@
+// 622. 设计循环队列
 export default class MyCircularQueue {
   constructor (k) {
     this.list = Array(k)
